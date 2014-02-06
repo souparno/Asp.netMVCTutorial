@@ -1,0 +1,10 @@
+C:\AAA\MVC\ASPNetMVCTutorial\ASPNetMVCTutorial\bin\ASPNetMVCTutorial.dll
+C:\AAA\MVC\ASPNetMVCTutorial\ASPNetMVCTutorial\bin\ASPNetMVCTutorial.pdb
+C:\AAA\MVC\ASPNetMVCTutorial\ASPNetMVCTutorial\obj\Debug\ResolveAssemblyReference.cache
+C:\AAA\MVC\ASPNetMVCTutorial\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.dll
+C:\AAA\MVC\ASPNetMVCTutorial\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.pdb
+C:\GitHub\AspMVC\ASPNetMVCTutorial\bin\ASPNetMVCTutorial.dll
+C:\GitHub\AspMVC\ASPNetMVCTutorial\bin\ASPNetMVCTutorial.pdb
+C:\GitHub\AspMVC\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.csprojResolveAssemblyReference.cache
+C:\GitHub\AspMVC\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.dll
+C:\GitHub\AspMVC\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.pdb
